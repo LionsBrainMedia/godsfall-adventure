@@ -1,0 +1,61 @@
+{
+  "id": "godsfall-an-adventure-set-in-the-war-of-immortals",
+  "title": "Godsfall: An Adventure Set in the War of Immortals",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "FoundryVTT support for Godsfall: An Adventure Set in the War of Immortals by W. Brian Lane",
+  "url": "https://github.com/LionsBrainMedia/godsfall-adventure",
+  "packs": [
+    {
+      "name": "godsfall-creatures",
+      "label": "Godsfall Creatures",
+      "path": "packs/godsfall-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "godsfall-scenes",
+      "label": "Godsfall Scenes",
+      "path": "packs/godsfall-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "godsfall-player-options",
+      "label": "Godsfall Player Options",
+      "path": "packs/godsfall-player-options",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "godsfall-activities",
+      "label": "Godsfall Activities",
+      "path": "packs/godsfall-activities",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
