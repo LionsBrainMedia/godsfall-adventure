@@ -8,6 +8,8 @@
   },
   "description": "FoundryVTT support for Godsfall: An Adventure Set in the War of Immortals by W. Brian Lane",
   "url": "https://github.com/LionsBrainMedia/godsfall-adventure",
+  "manifest": "https://raw.githubusercontent.com/LionsBrainMedia/godsfall-adventure/master/module.json",
+  "download": "https://github.com/LionsBrainMedia/godsfall-adventure/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "godsfall-creatures",
